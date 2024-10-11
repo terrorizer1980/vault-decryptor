@@ -26,7 +26,7 @@
   "license": "ISC",
   "dependencies": {
     "browser-passworder": "^2.0.3",
-    "ethereumjs-util": "^5.1.2",
+    "ethereumjs-util": "^6.0.0",
     "react": "^15.0.2",
     "react-dom": "^15.0.2",
     "react-hyperscript": "^2.4.0",
